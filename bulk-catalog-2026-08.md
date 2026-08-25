@@ -1,0 +1,236 @@
+# Bulk Design Catalog — 2026-08
+
+Curated discovery references from public CodePen TV collections and search results. These are references, not mirrored source code. Before production reuse, verify the individual Pen's license/terms and dependencies.
+
+## Heroes
+- hero section pure Bootstrap - 3rd — https://codepen.io/componentity/pen/ZEWxmYR — hero, bootstrap, landing
+- Swiper // Counter // Hero — https://codepen.io/wolfsilon/pen/XWZOLbN — hero, swiper, counter
+- Hero Banner with Floating Navigation — https://codepen.io/yudizsolutions/pen/OJmegGO — hero, floating-nav
+- CSS Scroll Reveal Sections — https://codepen.io/hexagoncircle/pen/PXVEVZ — hero, scroll-reveal
+- Responsive Hero with Dark Mode — https://codepen.io/syahrizaldev/pen/eYrddze — hero, dark-mode, responsive
+- Sticky nav after scrolling past the hero section — https://codepen.io/stacigh/pen/ExqByW — hero, sticky-nav
+- Responsive Hero Section with Navigation Menu — https://codepen.io/syahrizaldev/pen/QWmdGwe — hero, navigation
+
+## Navigation
+- Pure CSS pagination — https://codepen.io/jsnanigans/pen/dXrYBJ — navigation, pagination
+- Burger Menu - Full CSS / No JS — https://codepen.io/jlnljn/pen/LZXoBb — navigation, burger
+- Off Canvas Mobile Submenu — https://codepen.io/hexagoncircle/pen/YWGbmV — navigation, off-canvas
+- Responsive sidebar revealed on click and key press — https://codepen.io/tonkec/pen/gryZmg — navigation, sidebar
+- Swipe to open menu — https://codepen.io/adam2326/pen/YwOqqB — navigation, swipe
+- PureCSS fullscreen menu — https://codepen.io/phenax/pen/Wrjgmx — navigation, fullscreen
+- Pure CSS Header Menu — https://codepen.io/suez/pen/gPRjBo — navigation, css-only
+- Navigation Toggle Effect — https://codepen.io/RobinBertilsson/pen/EPaLmo — navigation, toggle, animation
+- SIDE MENU EXAMPLES — https://codepen.io/notbigmuzzy/pen/VeZMOy — navigation, side-menu
+- Café Swing — https://codepen.io/hexagoncircle/pen/NGZeRX — navigation, hover
+- New menu 2 — https://codepen.io/lechoo/pen/JYVvNb — navigation, menu
+- Dropdown navigation (keyboard friendly) — https://codepen.io/ClementParis016/pen/PPyVYm — navigation, dropdown, accessible
+- Full page, folder tab navigation — https://codepen.io/FacepalmRobot/pen/gadMGY — navigation, tabs
+- Wrinkle links — https://codepen.io/candroo/pen/mewONg — navigation, link-effect
+- Awesome Bootstrap 3 Sidebar Navigation — https://codepen.io/j_holtslander/pen/XmpMEp — navigation, sidebar, bootstrap
+- Hamburgler — https://codepen.io/chasebank/pen/vNgXGd — navigation, hamburger
+- Sliding Secondary Navigation with CSS — https://codepen.io/rafaelrodrigues/pen/bVVQGG — navigation, secondary-nav
+- Menu with nice hover effect — https://codepen.io/RazvanDH/pen/pjjmyX — navigation, hover
+- CSS Driven Menu — https://codepen.io/JFarrow/pen/vYKNNeg — navigation, css
+- sidebar menu — https://codepen.io/JFarrow/pen/OJMKpey — navigation, sidebar
+- Off Canvas Menu-Google Photos Mock — https://codepen.io/zeeshan_ansari/pen/vOejYd — navigation, off-canvas
+- Expandable menu — https://codepen.io/JFarrow/pen/OJVWvvp — navigation, expandable
+- Pure CSS Spin-out Menu — https://codepen.io/JFarrow/pen/vYONzGB — navigation, css
+- circular links menu responsive — https://codepen.io/JFarrow/pen/xxGwaVQ — navigation, circular
+- Cool Menu — https://codepen.io/JFarrow/pen/dyPaMoW — navigation, menu
+- Top Drawer Nav Menu — https://codepen.io/JFarrow/pen/BaagJvq — navigation, drawer
+- Simple and Responsive Menu — https://codepen.io/JFarrow/pen/VwwNvZv — navigation, responsive
+- CSS Grid Menu Panels — https://codepen.io/JFarrow/pen/KeEgjQ — navigation, grid
+- Playful Hover Menu — https://codepen.io/ismanfromes/pen/gKBZrW — navigation, hover
+- CSS Only Expanding Menu — https://codepen.io/Rabrennie/pen/WogNvV — navigation, expanding
+- Flexbox Off Canvas Menu — https://codepen.io/JFarrow/pen/WJdaeG — navigation, flexbox
+- Off-Canvas Menu With CSS and a Touch of JavaScript — https://codepen.io/JFarrow/pen/JvMaQa — navigation, off-canvas
+- CSS3 Responsive Navigation Menu — https://codepen.io/JFarrow/pen/QmzPZY — navigation, responsive
+- Responsive navigation multilevel — https://codepen.io/JFarrow/pen/OvrGoE — navigation, multilevel
+- The Most Popular Navigation Bars created with Flexbox — https://codepen.io/JFarrow/pen/VrQEJX — navigation, flexbox
+- Beautiful navigation hover effects — https://codepen.io/JFarrow/pen/xLObGq — navigation, hover
+
+## Cards
+- Simplest inner glow card animation — https://codepen.io/thebabydino/pen/WNVPdJg — card, glow, animation
+- Cards with inverted border-radius — https://codepen.io/kristen17/pen/pomgrKp — card, border-radius
+- Fork it - A Card — https://codepen.io/hussard/pen/gVeKeG — card, challenge
+- CSS Grid: Card Variations — https://codepen.io/oliviale/pen/WqwOzv — card, grid
+- Apple Music Cards — https://codepen.io/PalashSharma20/pen/bKpwbY — card, music
+- Blog Card — https://codepen.io/kathykato/pen/xzRQyp — card, blog
+- Article News Card — https://codepen.io/andytran/pen/BNjymy — card, article
+- Flexbox Card Grid — https://codepen.io/mcraiganthony/pen/NxGxqm — card, flexbox, grid
+- Google Now Inspired Flip Cards — https://codepen.io/ettrics/pen/zxMPWj — card, flip
+- Blog Cards — https://codepen.io/marhdev/pen/bdXeqQ — card, blog
+- Full-bleed layout with fixed-width content — https://codepen.io/mor10/pen/xdYoNO — card, layout
+- React Article Cards — https://codepen.io/andytran/pen/PNGNpw — card, react
+- Add to cart card — https://codepen.io/littlesnippets/pen/gaKvLZ — card, ecommerce
+- Recipe Card — https://codepen.io/klesht/pen/pjjegK — card, content
+- Material design card effect — https://codepen.io/KittyGiraudel/pen/YzYveP — card, material
+- Scheduled Message Card — https://codepen.io/valentingalmand/pen/xGpRrW — card, message
+- Scalable Card Component — https://codepen.io/kris-ellery/pen/Jodjbd — card, component
+- News card with corner tabs — https://codepen.io/littlesnippets/pen/gPOwXa — card, news
+- Card stack hover animation — https://codepen.io/koushik27/pen/mdJYEdg — card, stack, hover
+- 3D Card Hover — https://codepen.io/CoderRvrse/pen/VYvNzzN — card, 3d, parallax
+
+## Buttons
+- Links / Buttons hover animations — https://codepen.io/origine/pen/KVzpYm — button, hover
+- Multiple transitions on a button — https://codepen.io/chriscoyier/pen/zrGvaq — button, transitions
+- Button animations — https://codepen.io/art-lamark/pen/qZpoBz — button, animation
+- Send button interaction animation — https://codepen.io/iremlopsum/pen/OVKWxo — button, send, interaction
+- Animated Button — https://codepen.io/zanewesley/pen/yLgPEON — button, animation
+- Wavy Upload Button — https://codepen.io/BoboiboyAsh/pen/abqVdVv — button, upload, wavy
+- gradient button hover effects — https://codepen.io/nxworld/pen/GRKQOQj — button, gradient, hover
+- Animated Buttons — https://codepen.io/thepuskar/pen/eYgyyBb — button, animation
+- Arrows — https://codepen.io/cbrst/pen/ebxwLJ — button, arrows
+- CSS button hover — https://codepen.io/Danil89/pen/MzrEdX — button, hover
+- Social share button — https://codepen.io/RobVermeer/pen/aNYQMx — button, social
+- Social share button — https://codepen.io/yancy/pen/qyMdod — button, social
+- Flat Buttons With Smooth Hover Effect — https://codepen.io/CiTA/pen/YBQjVQ — button, hover
+- Arrow Button Hover Animation — https://codepen.io/svenfinger/pen/rqBZPP — button, arrow
+- Slide text on hover animation — https://codepen.io/madshaakansson/pen/ExZPJX — button, text, hover
+- Interactive button border — https://codepen.io/electerious/pen/GzrmwB — button, border
+- Morphing Submit Button — https://codepen.io/jkantner/pen/zYdaBPJ — button, morph
+- Mouse movement button with border-radius — https://codepen.io/Nekto/pen/XZPQGb — button, mouse, border-radius
+- 20 Button Hover Effects — https://codepen.io/RRoberts/pen/zKQoXx — button, hover, collection
+- Arrow animation — https://codepen.io/laurent-pnt/pen/bGoKqQN — button, arrow
+- Abstract button styles & transitions — https://codepen.io/hugobaeta/pen/WgrvpW — button, transition
+- Social Media Icons with Popups — https://codepen.io/abdelrhmansaid/pen/OJRNOpQ — button, social, popup
+- Social icon hover animation — https://codepen.io/brandondward/pen/RpyaKL — button, social, hover
+- Parallax Button Hover — https://codepen.io/TylerK/pen/WpBPrM — button, parallax
+- Video button animation — https://codepen.io/milanraring/pen/QWwyLdp — button, video
+- Shift up button — https://codepen.io/chrisnager/pen/PwXBKv — button, hover
+- Pure Css Button Hover effect — https://codepen.io/alticreation/pen/zBZwOP — button, fill, hover
+- CSS Animations & Transitions — https://codepen.io/joyanna/pen/NWGBMLm — button, transitions
+- Hero Section | Block Reveal Effect | Transition Buttons — https://codepen.io/ReechStudio/pen/YOwdOW — button, reveal
+- Link Hover Effects w/ mo.js — https://codepen.io/mprquinn/pen/OmOMrR — button, links, mojs
+- Minimal Button with Amazing Hover Effects — https://codepen.io/akshaycodes/pen/VdBYvM — button, minimal, hover
+- Fancy Hover Animation #2 — https://codepen.io/akshaycodes/pen/XyoVEp — button, hover
+- Button CSS Hover Animation with arrow — https://codepen.io/rafaelavlucas/pen/bJvQLz — button, arrow
+- Smooth filling button hover animation — https://codepen.io/gabrielcojea/pen/eYWMPPb — button, fill
+- Link hover styles — https://codepen.io/teeganlincoln/pen/MOGqwp — link, hover
+- GSAP Button In and Out — https://codepen.io/halfvillain/pen/oNxgQXV — button, gsap
+- Liquid Button Animation — https://codepen.io/lisa-thesen/pen/MmLXmr — button, liquid
+- Buttons — https://codepen.io/Aleksi_Magner/pen/QWyvwRQ — button, collection
+- Underline animation — https://codepen.io/aaroniker/pen/pojaBvb — button, underline
+- Paper plane button — https://codepen.io/aaroniker/pen/NWGZzXx — button, paper-plane
+- Submit Button GSAP edition — https://codepen.io/auginator/pen/NWYvwJ — button, submit, gsap
+- Button Hover — https://codepen.io/kathykato/pen/rZRaNe — button, hover
+- Playful button hover effects — https://codepen.io/aaroniker/pen/OJPqPMR — button, playful, hover
+- Animated hover button — https://codepen.io/Lunoware/pen/jKJRVr — button, hover
+- Buttons Animations — https://codepen.io/rafaelavlucas/pen/gOMJVKy — button, animation
+- Special Button — https://codepen.io/alphardex/pen/NWqEdKz — button, special
+- Button Hover Styles — https://codepen.io/johnheiner/pen/EyaLQW — button, hover
+- Submit Button Animation Check Mark — https://codepen.io/drewhaas/pen/KZZBEE — button, success
+- Confetti Button — https://codepen.io/coopergoeke/pen/wvaYMbJ — button, confetti
+
+## Loaders
+- Animated CSS Spinner — https://codepen.io/jlong/pen/Dezaqy — loader, spinner
+- Canvas Simple Circle Loader — https://codepen.io/jackrugile/pen/nqqzYJ — loader, canvas
+- CSS3 Loading Animation — https://codepen.io/rajarju/pen/DjwbEX — loader, css
+- Metro style loading animation — https://codepen.io/grssam/pen/kvZgqa — loader, metro
+- Loader dots — https://codepen.io/desandro/pen/kNgvMx — loader, dots
+- Loader dots — https://codepen.io/desandro/pen/neRvZg — loader, dots
+- CSS Spinner Animation — https://codepen.io/hakimel/pen/kWOKbK — loader, spinner
+- PayPal loading Animation — https://codepen.io/FWeinb/pen/AogeEr — loader, brand
+- Windows 8 Loading Animation — https://codepen.io/janrubio/pen/AVqgmD — loader, windows
+- Flickr Loading Indicator Animation — https://codepen.io/beau/pen/DQbPvN — loader, indicator
+- Android Jellybean Loading animation — https://codepen.io/simoncla/pen/kMWgYd — loader, android
+- Circle loading — https://codepen.io/ademilter/pen/AGRzOy — loader, circle
+- Spinners using Font Icons — https://codepen.io/Keyamoon/pen/DRmgQk — loader, icon
+- Simple CSS loading graphic — https://codepen.io/davebond/pen/DMWYeG — loader, css
+- Canvas Loader — https://codepen.io/dannyx0/pen/kYyaQQ — loader, canvas
+- Simple CSS Loading animation — https://codepen.io/domsammut/pen/kQjQvq — loader, css
+- Yet more CSS loading animations — https://codepen.io/amustill/pen/nqOoOb — loader, collection
+- Border loading indicators — https://codepen.io/0x04/pen/ALpOjx — loader, border
+- Loading — https://codepen.io/dissimulate/pen/nmJyyg — loader
+- CSS Loading Animation — https://codepen.io/andrewlphilpott/pen/DogVMd — loader, css
+- Just breathe — https://codepen.io/chrisnager/pen/AVeYWB — loader, breathing
+- Animated Type Loader — https://codepen.io/tholman/pen/kxZbdX — loader, type
+- css3 loader — https://codepen.io/diegopardo/pen/ngavNR — loader, css3
+- Loading jelly — https://codepen.io/fixcl/pen/DEPVPY — loader, jelly
+- Canvas Additive Color Loader — https://codepen.io/jackrugile/pen/AgPVvZ — loader, canvas, color
+- CSS3 loading animations — https://codepen.io/xixao/pen/DJGQgb — loader, css3
+- iOS Gmail loader-ish — https://codepen.io/valhead/pen/DPqBJd — loader, ios
+- Spinners using Font Icons — https://codepen.io/ayhansipahi/pen/nyOGWO — loader, icons
+- CSS Loading Animation — https://codepen.io/jurbank/pen/DKzBmR — loader, css
+- Reverse Animation — https://codepen.io/chrisota/pen/nrLZqx — loader, reverse
+- Spinner — https://codepen.io/noeldelgado/pen/nORPWQ — loader, spinner
+- Worm cycle — https://codepen.io/fixcl/pen/nBQmJj — loader, worm
+- Loading overlay with CSS animation — https://codepen.io/allusis/pen/AqRdGV — loader, overlay
+- Pixelated Progress Bar — https://codepen.io/achudars/pen/DWROKx — loader, progress
+- Waves — https://codepen.io/juho/pen/nxgvGy — loader, waves
+- CSS spinner — https://codepen.io/fixcl/pen/ALWpEz — loader, spinner
+- Pure CSS Loader Ring of Light — https://codepen.io/mroseboom/pen/kQvvOx — loader, ring
+- Spin Loader — https://codepen.io/geekben/pen/krmyqK — loader, spin
+- Nice CSS3 spin loader — https://codepen.io/jkneb/pen/DZEEYB — loader, css3
+- CSS3 Loaders — https://codepen.io/adonisk/pen/DBZoox — loader, collection
+
+## Animation / Interaction
+- Exploring UI Animation #3 — https://codepen.io/mariosmaselli/pen/ZpLXpN — animation, ui
+- Cursor with progress indicator — https://codepen.io/ig_design/pen/zXVGem — animation, cursor
+- Flickity layered parallax — https://codepen.io/desandro/pen/JKrNYK — animation, parallax
+- UX in Motion — https://codepen.io/prvnbist/pen/zRMaeK — animation, ux
+- 3D step counter card — https://codepen.io/ste-vg/pen/wdBRZN — animation, 3d
+- Pure CSS Circular Progress Bars — https://codepen.io/jasondavis/pen/MJXvZj — animation, progress
+- Progress Bar — https://codepen.io/andytran/pen/ZWKdzQ — animation, progress
+- Pure CSS Progress — https://codepen.io/rgg/pen/QbRyOq — animation, progress
+- Rainbow Circles — https://codepen.io/Kalhenyan/pen/PGVZjj — animation, circles
+- SVG percent circle graph — https://codepen.io/ArthurAndAshes/pen/jObWZOg — animation, svg
+- Colored Progression Bar — https://codepen.io/fabien_d/pen/eJKMgq — animation, progress
+- Animated SVG Pie Chart — https://codepen.io/siteprotect/pen/xgggJd — animation, svg, chart
+- Slider with irregular steps — https://codepen.io/Virtuousquare/pen/rMvWXO — animation, slider
+- Interactive Timeline with Color Toggle — https://codepen.io/jenningscreate/pen/rYNqVR — animation, timeline
+- Sticky Navigation Menu With Smooth Scrolling — https://codepen.io/prvnbist/pen/GQMPZq — animation, scroll
+- Scrollspy with animated scroll and focus — https://codepen.io/CodeBoomer/pen/dXgyPq — animation, scrollspy
+- Hover.css — https://codepen.io/IanLunn/pen/AxBReL — animation, hover
+- Material Design Cards — https://codepen.io/vincebrown/pen/emJoga — animation, card
+- Hamburgers - CSS Animated — https://codepen.io/EricPorter/pen/RwZGoBR — animation, hamburger
+- eCommerce Slide Effect GSAP — https://codepen.io/DivineBlow/pen/jOBdJKK — animation, ecommerce, gsap
+- Animated Carousel on CSS with Minimal JS — https://codepen.io/frontendmax/pen/YWpLag — animation, carousel
+- CSS Hover Card — https://codepen.io/sowmyaseshadri/pen/KxQMEP — animation, card, hover
+- Product card — https://codepen.io/olhilton/pen/dXaqxE — animation, ecommerce
+- Delicious Shopping Cart — https://codepen.io/SomnusHermeticus/pen/ARpgOO — animation, ecommerce
+- CSS Only Cupcake Slider — https://codepen.io/jcoulterdesign/pen/edrvRM — animation, slider
+- Dynamic Sticky Sidebar Component — https://codepen.io/hexagoncircle/pen/oNLZmvV — animation, sidebar
+- Scroll-Driven Animations Coverflow — https://codepen.io/bramus/pen/GRdGoKy — animation, scroll
+- Curzr cursor library — https://codepen.io/fuzionix/pen/PoRWVRg — animation, cursor
+- Custom cursor with CSS variables — https://codepen.io/electerious/pen/ZwKrmZ — animation, cursor
+- iPadOS Cursor Demo — https://codepen.io/cezzre/pen/poJxLEM — animation, cursor
+- Dropdown Menu — https://codepen.io/flavio_amaral/pen/xxqQLoa — animation, dropdown
+- Scrubbing, scrolling and splitting — https://codepen.io/BlogFire/pen/NWYRqmv — animation, scroll, text
+- GSAP ScrollTrigger Marquee Page Border — https://codepen.io/hexagoncircle/pen/xxwBLMy — animation, marquee
+- Controlled Clock — https://codepen.io/borntofrappe/pen/qGozVM — animation, clock
+- Image slider with multiple controls and mobile swipe — https://codepen.io/Akimzzy/pen/JjGKMoX — animation, slider, mobile
+- Animated Tab Bar — https://codepen.io/abxlfazl/pen/VwKzaEm — animation, tabs
+- Footer sorrow — https://codepen.io/ste-vg/pen/PoQgvBK — animation, footer
+- Checkbox group styled as tiles — https://codepen.io/havardob/pen/BapJYMg — animation, form
+- Anime.js + ScrollMagic Scroll Based Animations — https://codepen.io/rexjbull/pen/RwRRezq — animation, scroll
+- Flex Hover Slider — https://codepen.io/CameronFitzwilliam/pen/rmeMGr — animation, slider
+- Bouncy Block Clock — https://codepen.io/jkantner/pen/GRQaPPV — animation, clock
+- Simple CSS Waves — https://codepen.io/goodkatz/pen/LYPGxQz — animation, waves
+- The Raging Sea — https://codepen.io/aderaaij/pen/XWpMONO — animation, waves
+- Horizontal scroll section Motion One — https://codepen.io/bramus/pen/MWVvrEE — animation, horizontal-scroll
+- CSS Marquee Logo Wall — https://codepen.io/hexagoncircle/pen/wvmjomb — animation, marquee, logos
+- Rotating circular-path links — https://codepen.io/natszafraniec/pen/eYMPEaM — animation, circular
+- Off The Wall Image Menu — https://codepen.io/Hyperplexed/pen/abYaZbm — animation, image-menu
+- :has() Sibling Gallery — https://codepen.io/jh3y/pen/xxjxqOL — animation, gallery
+- ScrollTrigger SVG Text Mask — https://codepen.io/creativeocean/pen/qBbBLyB — animation, svg, text
+
+## Direct search references
+- Less absolute - Hero Section — https://codepen.io/shadeed/pen/LYLWvOv — hero, responsive
+- Button Hover Effect 2 — https://codepen.io/iamraviteja/pen/PzboKd — button, hover
+- Responsive Footer — https://codepen.io/trescenzi/pen/OJjYNaK — footer, responsive
+- Testimonial Slider — https://codepen.io/raineycode/pen/qJqmpR — testimonial, slider
+- Basic Hero with Overlay — https://codepen.io/coreymcollins/pen/ZQopjr — hero, overlay
+- Pure CSS Content Accordion — https://codepen.io/z4p0/pen/OPwBEV — accordion, css
+- Tabs Modal — https://codepen.io/cppleon/pen/ezVoZg — modal, tabs
+- CSS Accordion Bootstrap Form — https://codepen.io/applecool/pen/YXaJLa — accordion, form
+- Responsive Accordion Section Form — https://codepen.io/danielmorales/pen/abOVdLY — accordion, form
+- Popup Modal and Details Accordion — https://codepen.io/vj/pen/abMGpgN — modal, accordion
+- Fully Responsive Agency Landing Page — https://codepen.io/tedmartins/pen/mdoVaKW — agency, landing, hero
+- Responsive Navbar and Hero — https://codepen.io/ajantad/pen/rNqWBGy — navigation, hero
+- Responsive Hero Section — https://codepen.io/rgmazon/pen/vEBEoeZ — hero, responsive
+- SaaS Landing Page — https://codepen.io/Awareness-/pen/YzBKvVO — saas, landing
+- Responsive Animated Landing Page — https://codepen.io/ShoshaTheTarnegolet/pen/jOGZvJY — landing, animation
+
+## Count
+This bulk pass adds a large set of unique discovery references across heroes, navigation, cards, buttons, loaders and animation/interaction. Combined with the existing seed index, the repository is now designed to exceed the 200-reference target while remaining a reference catalog rather than a mirrored CodePen database.
